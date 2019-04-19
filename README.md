@@ -11,11 +11,11 @@ react_native_open_file_with 저장소(Repository)는 특정 파일로 RN(React N
 
 이 저장소(Repository)는 아래에 내용이 RN(React Native)에 적용되어있습니다. 자세한 내용은 아래에 블로그를 확인해 주세요.
 
-- [typescript]({{site.url}}/{{page.categories}}/typescript/)
-- [styled-components]({{site.url}}/{{page.categories}}/styled-components/)
-- [RN(React Native)에서 root import하기]({{site.url}}/{{page.categories}}/root-import/)
-- [react-navigation]({{site.url}}/{{page.categories}}/react-navigation/)
-- [NativeBase]({{site.url}}/{{page.categories}}/nativebase/)
+- [typescript](https://dev-yakuza.github.io/ko/react-native/typescript/)
+- [styled-components](https://dev-yakuza.github.io/ko/react-native/styled-components/)
+- [RN(React Native)에서 root import하기](https://dev-yakuza.github.io/ko/react-native/root-import/)
+- [react-navigation](https://dev-yakuza.github.io/ko/react-native/react-navigation/)
+- [NativeBase](https://dev-yakuza.github.io/ko/react-native/nativebase/)
 
 ### 사용 방법
 아래에 명령어를 통해 react_native_open_file_with 저장소(Repository)를 복사(Clone)합니다.
@@ -46,11 +46,11 @@ react_native_open_file_with 저장소(Repository)는 특정 파일로 RN(React N
 
 이 저장소(Repository)는 아래에 내용이 RN(React Native)에 적용되어있습니다. 자세한 내용은 아래에 블로그를 확인해 주세요.
 
-- [typescript]({{site.url}}/{{page.categories}}/typescript/)
-- [styled-components]({{site.url}}/{{page.categories}}/styled-components/)
-- [RN(React Native)에서 root import하기]({{site.url}}/{{page.categories}}/root-import/)
-- [react-navigation]({{site.url}}/{{page.categories}}/react-navigation/)
-- [NativeBase]({{site.url}}/{{page.categories}}/nativebase/)
+- [typescript](https://dev-yakuza.github.io/react-native/typescript/)
+- [styled-components](https://dev-yakuza.github.io/react-native/styled-components/)
+- [RN(React Native)에서 root import하기](https://dev-yakuza.github.io/react-native/root-import/)
+- [react-navigation](https://dev-yakuza.github.io/react-native/react-navigation/)
+- [NativeBase](https://dev-yakuza.github.io/react-native/nativebase/)
 
 ### 사용 방법
 아래에 명령어를 통해 react_native_open_file_with 저장소(Repository)를 복사(Clone)합니다.
@@ -81,11 +81,11 @@ react_native_open_file_withレポジトリ(Repository)は特定のファイル�
 
 このレポジトリ(Repository)は下記の内容がRN(React Native)で反映されたプロジェクトです。詳しく内容は下記のブログを確認してください。
 
-- [typescript]({{site.url}}/{{page.categories}}/typescript/)
-- [styled-components]({{site.url}}/{{page.categories}}/styled-components/)
-- [RN(React Native)でrootからimportする]({{site.url}}/{{page.categories}}/root-import/)
-- [react-navigation]({{site.url}}/{{page.categories}}/react-navigation/)
-- [NativeBase]({{site.url}}/{{page.categories}}/nativebase/)
+- [typescript](https://dev-yakuza.github.io/en/react-native/typescript/)
+- [styled-components](https://dev-yakuza.github.io/en/react-native/styled-components/)
+- [RN(React Native)でrootからimportする](https://dev-yakuza.github.io/en/react-native/root-import/)
+- [react-navigation](https://dev-yakuza.github.io/en/react-native/react-navigation/)
+- [NativeBase](https://dev-yakuza.github.io/en/react-native/nativebase/)
 
 ### 使い方
 下記のコマンドでreact_native_voice_exerciseリポジトリ(Repository)をコピ(Clone)します。
@@ -116,11 +116,11 @@ this repository is simple example about how to open RN(React Native) app with a 
 
 this repository is RN(React Native) project applied below. if you want to know more details, see the link below.
 
-- [typescript]({{site.url}}/{{page.categories}}/typescript/)
-- [styled-components]({{site.url}}/{{page.categories}}/styled-components/)
-- [Make Import path based on Root in RN(React Native)]({{site.url}}/{{page.categories}}/root-import/)
-- [react-navigation]({{site.url}}/{{page.categories}}/react-navigation/)
-- [NativeBase]({{site.url}}/{{page.categories}}/nativebase/)
+- [typescript](https://dev-yakuza.github.io/ko/react-native/typescript/)
+- [styled-components](https://dev-yakuza.github.io/ko/react-native/styled-components/)
+- [Make Import path based on Root in RN(React Native)](https://dev-yakuza.github.io/ko/react-native/root-import/)
+- [react-navigation](https://dev-yakuza.github.io/ko/react-native/react-navigation/)
+- [NativeBase](https://dev-yakuza.github.io/ko/react-native/nativebase/)
 
 ### How To Use
 execute below command to clone react_native_open_file_with repository.
